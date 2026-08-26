@@ -1,0 +1,17 @@
+# Junín Fitness
+
+> Estudio de pilates, entrenamiento funcional y rehabilitación en Recoleta, Ciudad Autónoma de Buenos Aires, dirigido por el profesor Diego Leiras.
+
+Junín Fitness ofrece clases en grupos reducidos de pilates clásico en reformer, entrenamiento funcional integral, rehabilitación de lesiones y masajes. Calificación 5.0 sobre 5 en Google, con 50 reseñas. El estudio está ubicado en Junín 1400, C1114, Recoleta, CABA, y abre de lunes a viernes de 8:00 a 21:00.
+
+## Datos clave
+- Instructor: Diego Leiras, con más de 7 años de trayectoria en el estudio.
+- Servicios: pilates, entrenamiento funcional, rehabilitación, masajes.
+- Dirección: Junín 1400, C1114, Ciudad Autónoma de Buenos Aires, Argentina.
+- Teléfono: +54 11 4086-5501.
+- Instagram: https://www.instagram.com/junin_fitness/
+- Accesibilidad: entrada, estacionamiento y baño accesibles en silla de ruedas. Espacio LGBTQ+ friendly y seguro para personas trans.
+- Se requiere solicitar turno previo.
+
+## Páginas
+- [Sitio principal](https://pitttj2007-wq.github.io/junin-fitness/): servicios, instructor, estudio, testimonios, horarios, ubicación y preguntas frecuentes.
